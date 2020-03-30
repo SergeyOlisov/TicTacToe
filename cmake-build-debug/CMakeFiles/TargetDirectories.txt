@@ -1,0 +1,3 @@
+C:/CrossToe/cmake-build-debug/CMakeFiles/CrossToe.dir
+C:/CrossToe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/CrossToe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
